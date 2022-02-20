@@ -8,7 +8,7 @@ For testing the application you can use an HTTP Client like Postman or similar.
 There are JavaDocs for most of the classes and methods for better understanding.
 I put Maven dependency for H2 database (In memory database) for the Repository JUnit tests.
 
-Development time: Around 7h.
+Development time: <i> Around 7h. </i>
 
 ## Architecture Explanation
 
